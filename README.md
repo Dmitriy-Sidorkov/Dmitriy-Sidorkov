@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :man_technologist: Обо мне:
 
-Я начинающий инженер-программист из России <img src="https://standoffarena.com/assets/images/users/680595.jpg?cache=1698151168" width="20px">🌍!
+Я начинающий инженер-программист<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-Активно изучаю <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20px"> на просторах <img src="https://static.tildacdn.com/tild3936-3365-4831-a131-343139313730/stepik_logotype_blac.svg" width="60px">, мне интересны все возможные направления, где этот язык может применяться. Открыт к изучению новых технологий.
+Активно изучаю <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20" alt="Python" /> на просторах <img src="https://static.tildacdn.com/tild3936-3365-4831-a131-343139313730/stepik_logotype_blac.svg" width="60px">, мне интересны все возможные направления, где этот язык может применяться. Открыт к изучению новых технологий.
 Имею огромное желание принять участие в создании перспективных продуктов, нацеленных на улучшение и автоматизацию бизнес-процессов!
 
 
